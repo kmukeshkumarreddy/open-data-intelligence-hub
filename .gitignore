@@ -9,6 +9,10 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+*.pyc
+
+# Large trained model artifacts
+*.pkl
 
 # Environment variables
 .env
